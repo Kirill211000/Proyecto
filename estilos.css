@@ -1,0 +1,309 @@
+body{
+    margin-top: 20px;
+    background-image: url(https://www.filterforge.com/filters/7831.jpg);
+    
+}
+
+.titulo{
+    color: aliceblue;
+    font-family: Pristina, ravie, lucida;
+    font-size: 80px;
+    text-align: center;
+    margin-bottom: 10px;
+    display: inline;
+    text-shadow: -2px -2px 10px #000, 2px 2px 10px #000, -3px 2px 5px #000, 2px -2px 10px #000;
+}
+
+.titulo img{
+    width: 100px;
+}
+.menu{
+    margin-bottom: 20px;
+    
+}
+.menu a{
+    color: aliceblue;
+    font-size: 40px;
+    text-decoration: none;
+    padding: 0px 8% 0 8%;
+    text-align: center;
+    background-color: rgb(224, 9, 9);
+    border-radius: 15px;
+    font-family: Pristina, ravie, lucida;
+    text-shadow: -2px -2px 10px #000, 2px 2px 10px #000, -3px 2px 5px #000, 2px -2px 10px #000;
+    margin-left: -10px;
+    margin-right: 0;
+}
+.menu a:hover{
+    background-color: #C10303;
+    border-radius: 15px;
+    
+}
+
+.breadcrumb a{
+    text-decoration: none;
+    color: #C10303;
+}
+
+.breadcrumb  a:hover{
+    color: white;
+}
+
+.dropdown-item:hover{
+    color: aliceblue;
+}
+
+.contenedor-platos{
+    background-color: aliceblue;
+    padding: 10px 0;
+    
+}
+
+.plato{
+    margin-bottom: 40px;
+    height: 100%;
+    background-color: #EDEDED;
+    min-height: 580px;
+}
+
+.plato h1{
+    font-size: 28px;
+    min-height: 100px;;
+    
+}
+.plato p{
+    margin-top: 5px;
+}
+
+.eventos{
+    margin-top: 40px;
+}
+
+.evento{
+    background-color: #EDEDED;
+    padding: 5px;
+}
+
+.descripcion-evento{
+    margin: 0px 00px;
+    
+}
+.evento:hover{
+    background-color:  #eeeeee;
+}
+
+.carta-container{
+    background-color: rgb(252, 246, 200);
+}
+
+.carta{
+    color: rgb(219, 219, 219);
+    text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+    padding: 0 10px;
+    margin: 50px 0;
+}
+
+.carta-titulo{
+    color: rgb(219, 219, 219);
+    padding: 0 10px;
+    margin: 50px 0;
+}
+
+.carta-titulo h1{
+    text-align: center;
+    text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+    margin-bottom: 50px;
+}
+
+.carta h1{
+    text-align: center;
+    text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+    margin-bottom: 50px;
+    border-bottom: solid
+}
+
+.carta span{
+    float: right;
+    color: rgb(255, 145, 0);
+}
+
+.carta p{
+    width: 100%;
+    font-size: 20px;
+}
+
+.carta p:hover{
+    background-color: #C10303;
+}
+
+.contacto{
+    margin-top: 20px;
+    background-color: #eeeeee;
+    padding-bottom: 10px;
+}
+
+.contacto-descripcion{
+    border-top: solid;
+    border-bottom: solid;
+    min-height: 300px;
+    margin-top: 40px;
+}
+
+.localizacion{
+    margin-top: 10px;
+    background-color: #eeeeee;
+}
+
+.comentarios{
+    background-color: #eeeeee;
+    margin-top: 20px;
+    padding: 20px 0px;
+}
+.comentarios ul li{
+    list-style: none;
+}
+
+.comentarios ul li label{
+    width: 70px;
+}
+
+.comentarios ul li:hover{
+    background-color: rgb(230, 230, 230);
+}
+
+.alerta-comentario{
+    display: none;
+}
+
+.alerta-reserva{
+    display: none;
+}
+
+.coment{
+    background-color: #eeeeee;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.comentario{
+    border: solid;
+    margin-top: 20px; 
+    padding: 5px;  
+}
+
+.comentario h4{
+    background-color: rgb(199, 199, 199)
+}
+
+.footer{
+    background-color: #333333;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    padding: 0px 5px;
+    border-radius: 20px;
+    color: #EDEDED
+}
+
+.footer div{
+    margin-top: 20px;
+}
+
+.creador{
+    text-align: right;
+}
+
+.galeria-container{
+    background-color: #EDEDED;
+    text-align: center;
+
+}
+
+.galeria-container img{
+    
+    margin: 10px 20px;
+    padding: 10px;
+    height: 200px;
+    width: 320px;
+}
+
+.galeria-container img:hover{
+    transform: scale(1.5);
+    position: relative;
+    float: initial;
+}
+
+.menus-comida{
+    background-color:#EDEDED;
+    
+}
+
+.menu-comida{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.menu-comida:hover{
+    background-color: rgb(211, 211, 211)
+}
+
+
+@media (max-width: 575px) { 
+    .carta p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .galeria-container img{
+        height: 277px;
+        width: 444px;
+    }
+    .galeria-container img:hover{
+        transform: scale(1.1);
+        position: relative;
+        float: initial;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) { 
+    .carta p{
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .galeria-container img{
+        height: 294px;
+        width: 470px;
+    }
+    .galeria-container img:hover{
+        transform: scale(1.1);
+        position: relative;
+        float: initial;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) { 
+    .carta p{
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .galeria-container img{
+        height: 185px;
+        width: 296px;
+    }
+    .galeria-container img:hover{
+        transform: scale(1.4);
+        position: relative;
+        float: initial;
+    }
+}
+
+
+@media (min-width: 992px) { 
+    .carta p{
+        margin-top: 20px;
+    }
+    .galeria-container img{
+        height: 263px;
+        width: 421px;
+    }
+}
