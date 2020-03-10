@@ -1,10 +1,8 @@
 # Proyecto
 Proyecto de clase
 
-Proyecto  de clase, conetra lo siguiente.
+Proyecto  de clase, cotiene lo siguiente.
 
--Imagenes que  de la pagina web, platos, comidas, bebidas y postres.
--Codigo fuente de la pagina para poder aportar comentarios y  mejoras.
 -Los  suguientes  archivos:
 *Carta.htlm
 *comentarios.html
@@ -17,3 +15,4 @@ Proyecto  de clase, conetra lo siguiente.
 *vinos.html
 
 
+Se añadiran pulls con todas la actualizaciones realizadas en la pagina web tanto internamente como externamente.
