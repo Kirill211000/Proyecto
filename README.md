@@ -1,7 +1,7 @@
 # Proyecto
 Proyecto de clase
 
-Proyecto  de clase, cotiene lo siguiente.
+Proyecto  de clase, contiene lo siguiente.
 
 -Los  suguientes  archivos:
 *Carta.htlm
