@@ -1,6 +1,6 @@
 body{
     margin-top: 20px;
-    background-image: url(https://www.filterforge.com/filters/7831.jpg);
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-yellow-background-classical-pattern-ethnic-banner-background-picture-image_265001.jpg);
     
 }
 
@@ -11,7 +11,7 @@ body{
     text-align: center;
     margin-bottom: 10px;
     display: inline;
-    text-shadow: -2px -2px 10px #000, 2px 2px 10px #000, -3px 2px 5px #000, 2px -2px 10px #000;
+
 }
 
 .titulo img{
@@ -22,27 +22,26 @@ body{
     
 }
 .menu a{
-    color: aliceblue;
+    color: rgb(0, 0, 0);
     font-size: 40px;
     text-decoration: none;
     padding: 0px 8% 0 8%;
     text-align: center;
-    background-color: rgb(224, 9, 9);
+    background-color: rgb(240, 229, 130);
     border-radius: 15px;
     font-family: Pristina, ravie, lucida;
-    text-shadow: -2px -2px 10px #000, 2px 2px 10px #000, -3px 2px 5px #000, 2px -2px 10px #000;
     margin-left: -10px;
     margin-right: 0;
 }
 .menu a:hover{
-    background-color: #C10303;
+    background-color: rgb(255, 230, 0);
     border-radius: 15px;
     
 }
 
 .breadcrumb a{
     text-decoration: none;
-    color: #C10303;
+    color: rgb(255, 255, 255);
 }
 
 .breadcrumb  a:hover{
@@ -97,34 +96,34 @@ body{
 }
 
 .carta{
-    color: rgb(219, 219, 219);
-    text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000;
+    color: rgb(0, 0, 0);
+    text-shadow:
     padding: 0 10px;
     margin: 50px 0;
 }
 
 .carta-titulo{
-    color: rgb(219, 219, 219);
+    color: rgb(0, 0, 0);
     padding: 0 10px;
     margin: 50px 0;
 }
 
 .carta-titulo h1{
     text-align: center;
-    text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+    text-shadow: 
     margin-bottom: 50px;
 }
 
 .carta h1{
     text-align: center;
-    text-shadow: -2px -2px 1px #000, 2px 2px 1px #000, -2px 2px 1px #000, 2px -2px 1px #000;
+    text-shadow: 
     margin-bottom: 50px;
     border-bottom: solid
 }
 
 .carta span{
     float: right;
-    color: rgb(255, 145, 0);
+    color: rgb(0, 0, 0);
 }
 
 .carta p{
@@ -133,7 +132,7 @@ body{
 }
 
 .carta p:hover{
-    background-color: #C10303;
+    background-color: rgb(253, 251, 130);
 }
 
 .contacto{
