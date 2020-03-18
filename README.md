@@ -14,5 +14,5 @@ Proyecto  de clase, conetra lo siguiente.
 *galeria.html
 *index.html
 *menu.html
-*localizacioón.png
+*localización.png
 
